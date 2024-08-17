@@ -1,0 +1,1417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\trackappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:trackappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|c:\\users\\user\\onedrive\\desktop\\22f-3272_22f-3859_db_phase2\\22f-3272_22f-3859_db_phase2\\windowsformsapp1\\empdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:empdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\trackappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:trackappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\checkprofileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:checkprofileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\empdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:empdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\separatedashboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:separatedashboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\separatedashboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:separatedashboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\cahsiercheckprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:cahsiercheckprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\cahsiercheckprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:cahsiercheckprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\custdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:custdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\checkprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:checkprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\cahsiercheckprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:cahsiercheckprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\custdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:custdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|c:\\users\\user\\onedrive\\desktop\\22f-3272_22f-3859_db_phase2\\22f-3272_22f-3859_db_phase2\\windowsformsapp1\\patientlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:patientlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\patientlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:patientlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\employeesignupcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:employeesignupcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\employeesignupcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:employeesignupcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\medicalstaffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:medicalstaffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\patientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:patientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\patientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:patientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\checkprofileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:checkprofileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\medicalstaffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:medicalstaffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\managetask.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:managetask.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\manageapps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:manageapps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\manageemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:manageemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\viewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:viewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\viewappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:viewappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\managetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:managetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\managetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:managetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\updaterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:updaterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\patientsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:patientsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\removemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:removemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\trackappointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:trackappointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\viewsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:viewsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\manageapps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:manageapps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\customersupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:customersupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\checkprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:checkprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\bookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:bookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\assigntasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:assigntasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\adminsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:adminsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\adminsignup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:adminsignup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\addemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:addemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\patientsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:patientsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\adminsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:adminsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\employeesignupcs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:employeesignupcs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\manageapps.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:manageapps.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\checkprofileadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:checkprofileadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\previousappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:previousappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\previousappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:previousappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\trackappointmentstatus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:trackappointmentstatus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\trackappointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:trackappointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\removemp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:removemp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\viewsalary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:viewsalary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\viewfeedback.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:viewfeedback.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\manageemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:manageemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\addemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:addemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\addemp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:addemp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\removemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:removemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\assigntasks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:assigntasks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\viewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:viewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\viewfeedback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:viewfeedback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\viewsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:viewsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\assigntasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:assigntasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\customersupport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:customersupport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\customersupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:customersupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\checkprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:checkprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\trackappointment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:trackappointment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\updaterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:updaterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\bookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D335E8-08C7-4407-B233-50FFDE061E91}|WindowsFormsApp1.csproj|solutionrelative:bookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\packages\\Oracle.ManagedDataAccess.21.14.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Oracle.ManagedDataAccess.21.14.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\packages\\Oracle.ManagedDataAccess.EntityFramework.21.9.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Oracle.ManagedDataAccess.EntityFramework.21.9.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 317,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 43,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "addemp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\addemp.cs",
+              "RelativeDocumentMoniker": "addemp.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\addemp.cs [Design]",
+              "RelativeToolTip": "addemp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:54:05.593Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "AdminLogin.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:12:00.856Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AdminSignup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AdminSignup.cs",
+              "RelativeDocumentMoniker": "AdminSignup.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AdminSignup.cs [Design]",
+              "RelativeToolTip": "AdminSignup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:11:37.438Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AssignTasks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AssignTasks.cs",
+              "RelativeDocumentMoniker": "AssignTasks.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AssignTasks.cs [Design]",
+              "RelativeToolTip": "AssignTasks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:24:09.486Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BookAppointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\BookAppointment.cs",
+              "RelativeDocumentMoniker": "BookAppointment.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\BookAppointment.cs [Design]",
+              "RelativeToolTip": "BookAppointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:59:41.758Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CahsierCheckprofile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CahsierCheckprofile.cs",
+              "RelativeDocumentMoniker": "CahsierCheckprofile.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CahsierCheckprofile.cs [Design]",
+              "RelativeToolTip": "CahsierCheckprofile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:25:38.666Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "checkprofile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\checkprofile.cs",
+              "RelativeDocumentMoniker": "checkprofile.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\checkprofile.cs [Design]",
+              "RelativeToolTip": "checkprofile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:05:54.643Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckProfileAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CheckProfileAdmin.cs",
+              "RelativeDocumentMoniker": "CheckProfileAdmin.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CheckProfileAdmin.cs [Design]",
+              "RelativeToolTip": "CheckProfileAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:55:32.092Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CustDashboard.cs",
+              "RelativeDocumentMoniker": "CustDashboard.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CustDashboard.cs [Design]",
+              "RelativeToolTip": "CustDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:21:35.533Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CustomerSupport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CustomerSupport.cs",
+              "RelativeDocumentMoniker": "CustomerSupport.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CustomerSupport.cs [Design]",
+              "RelativeToolTip": "CustomerSupport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:03:38.542Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:53:29.577Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Employee.cs [Design]",
+              "RelativeToolTip": "Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:53:22.485Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\EmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "EmployeeDashboard.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\EmployeeDashboard.cs [Design]",
+              "RelativeToolTip": "EmployeeDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:44:09.479Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Employeesignupcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Employeesignupcs.cs",
+              "RelativeDocumentMoniker": "Employeesignupcs.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Employeesignupcs.cs [Design]",
+              "RelativeToolTip": "Employeesignupcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:29:43.794Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ManageAppS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ManageAppS.cs",
+              "RelativeDocumentMoniker": "ManageAppS.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ManageAppS.cs [Design]",
+              "RelativeToolTip": "ManageAppS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:46:17.414Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ManageEmp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ManageEmp.cs",
+              "RelativeDocumentMoniker": "ManageEmp.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ManageEmp.cs [Design]",
+              "RelativeToolTip": "ManageEmp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:49:27.992Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Managetask.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Managetask.cs",
+              "RelativeDocumentMoniker": "Managetask.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Managetask.cs [Design]",
+              "RelativeToolTip": "Managetask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:14:18.258Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MedicalStaffdashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\MedicalStaffdashboard.cs",
+              "RelativeDocumentMoniker": "MedicalStaffdashboard.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\MedicalStaffdashboard.cs [Design]",
+              "RelativeToolTip": "MedicalStaffdashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:22:45.199Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ViewSalary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ViewSalary.cs",
+              "RelativeDocumentMoniker": "ViewSalary.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ViewSalary.cs [Design]",
+              "RelativeToolTip": "ViewSalary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:14:30.436Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Viewfeedback.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Viewfeedback.cs",
+              "RelativeDocumentMoniker": "Viewfeedback.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Viewfeedback.cs [Design]",
+              "RelativeToolTip": "Viewfeedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:16:41.901Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "viewappointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\viewappointment.cs",
+              "RelativeDocumentMoniker": "viewappointment.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\viewappointment.cs [Design]",
+              "RelativeToolTip": "viewappointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:19:30.983Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TrackAppointmentStatus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\TrackAppointmentStatus.cs",
+              "RelativeDocumentMoniker": "TrackAppointmentStatus.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\TrackAppointmentStatus.cs [Design]",
+              "RelativeToolTip": "TrackAppointmentStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:05:59.437Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeparateDashboards.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\SeparateDashboards.cs",
+              "RelativeDocumentMoniker": "SeparateDashboards.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\SeparateDashboards.cs [Design]",
+              "RelativeToolTip": "SeparateDashboards.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:19:19.339Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrackAppointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\TrackAppointment.cs",
+              "RelativeDocumentMoniker": "TrackAppointment.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\TrackAppointment.cs [Design]",
+              "RelativeToolTip": "TrackAppointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:43:34.139Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Removemp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Removemp.cs",
+              "RelativeDocumentMoniker": "Removemp.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Removemp.cs [Design]",
+              "RelativeToolTip": "Removemp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:34:06.761Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Patientlogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Patientlogin.cs",
+              "RelativeDocumentMoniker": "Patientlogin.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Patientlogin.cs [Design]",
+              "RelativeToolTip": "Patientlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:59:02.132Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:01:21.269Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PatientSignup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\PatientSignup.cs",
+              "RelativeDocumentMoniker": "PatientSignup.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\PatientSignup.cs [Design]",
+              "RelativeToolTip": "PatientSignup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:31:04.226Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Prescription.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Prescription.cs",
+              "RelativeDocumentMoniker": "Prescription.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Prescription.cs [Design]",
+              "RelativeToolTip": "Prescription.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:32:11.976Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "updaterecord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\updaterecord.cs",
+              "RelativeDocumentMoniker": "updaterecord.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\updaterecord.cs [Design]",
+              "RelativeToolTip": "updaterecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:15:46.464Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PreviousAppointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\PreviousAppointment.cs",
+              "RelativeDocumentMoniker": "PreviousAppointment.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\PreviousAppointment.cs [Design]",
+              "RelativeToolTip": "PreviousAppointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:26:38.027Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Patientdashboard.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Patientdashboard.cs",
+              "RelativeDocumentMoniker": "Patientdashboard.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Patientdashboard.cs",
+              "RelativeToolTip": "Patientdashboard.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:37:32.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CustDashboard.cs",
+              "RelativeDocumentMoniker": "CustDashboard.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CustDashboard.cs",
+              "RelativeToolTip": "CustDashboard.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:24:56.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Patientdashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Patientdashboard.cs",
+              "RelativeDocumentMoniker": "Patientdashboard.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Patientdashboard.cs [Design]",
+              "RelativeToolTip": "Patientdashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:22:13.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Managetask.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Managetask.Designer.cs",
+              "RelativeDocumentMoniker": "Managetask.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Managetask.Designer.cs",
+              "RelativeToolTip": "Managetask.Designer.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAgwHIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:07:18.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Managetask.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Managetask.cs",
+              "RelativeDocumentMoniker": "Managetask.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Managetask.cs",
+              "RelativeToolTip": "Managetask.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAwwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:59:10.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "addemp.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\addemp.cs",
+              "RelativeDocumentMoniker": "addemp.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\addemp.cs",
+              "RelativeToolTip": "addemp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:54:23.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Viewfeedback.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Viewfeedback.cs",
+              "RelativeDocumentMoniker": "Viewfeedback.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Viewfeedback.cs",
+              "RelativeToolTip": "Viewfeedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:18:52.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "updaterecord.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\updaterecord.cs",
+              "RelativeDocumentMoniker": "updaterecord.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\updaterecord.cs",
+              "RelativeToolTip": "updaterecord.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAADwv1AAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:17:45.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "TrackAppointment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\TrackAppointment.Designer.cs",
+              "RelativeDocumentMoniker": "TrackAppointment.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\TrackAppointment.Designer.cs",
+              "RelativeToolTip": "TrackAppointment.Designer.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAiwD0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:54:14.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrackAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\TrackAppointment.cs",
+              "RelativeDocumentMoniker": "TrackAppointment.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\TrackAppointment.cs",
+              "RelativeToolTip": "TrackAppointment.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwBoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:49:28.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PreviousAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\PreviousAppointment.cs",
+              "RelativeDocumentMoniker": "PreviousAppointment.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\PreviousAppointment.cs",
+              "RelativeToolTip": "PreviousAppointment.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAIAwwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:29:57.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Prescription.cs",
+              "RelativeDocumentMoniker": "Prescription.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Prescription.cs",
+              "RelativeToolTip": "Prescription.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAcwIIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:34:09.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CheckProfileAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CheckProfileAdmin.cs",
+              "RelativeDocumentMoniker": "CheckProfileAdmin.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CheckProfileAdmin.cs",
+              "RelativeToolTip": "CheckProfileAdmin.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwEMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:02:08.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PatientSignup.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\PatientSignup.cs",
+              "RelativeDocumentMoniker": "PatientSignup.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\PatientSignup.cs",
+              "RelativeToolTip": "PatientSignup.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:33:07.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:54:00.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Patientlogin.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Patientlogin.cs",
+              "RelativeDocumentMoniker": "Patientlogin.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Patientlogin.cs",
+              "RelativeToolTip": "Patientlogin.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:03:14.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ManageEmp.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ManageEmp.cs",
+              "RelativeDocumentMoniker": "ManageEmp.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ManageEmp.cs",
+              "RelativeToolTip": "ManageEmp.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:54:34.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:04:09.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Employeesignupcs.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Employeesignupcs.cs",
+              "RelativeDocumentMoniker": "Employeesignupcs.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Employeesignupcs.cs",
+              "RelativeToolTip": "Employeesignupcs.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAgwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:30:00.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeeDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\EmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "EmployeeDashboard.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\EmployeeDashboard.cs",
+              "RelativeToolTip": "EmployeeDashboard.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:45:57.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:04:57.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CustomerSupport.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CustomerSupport.cs",
+              "RelativeDocumentMoniker": "CustomerSupport.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CustomerSupport.cs",
+              "RelativeToolTip": "CustomerSupport.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwDYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:04:48.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "checkprofile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\checkprofile.Designer.cs",
+              "RelativeDocumentMoniker": "checkprofile.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\checkprofile.Designer.cs",
+              "RelativeToolTip": "checkprofile.Designer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwC0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:25:14.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "checkprofile.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\checkprofile.cs",
+              "RelativeDocumentMoniker": "checkprofile.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\checkprofile.cs",
+              "RelativeToolTip": "checkprofile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:19:09.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "BookAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\BookAppointment.cs",
+              "RelativeDocumentMoniker": "BookAppointment.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\BookAppointment.cs",
+              "RelativeToolTip": "BookAppointment.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwv3AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:02:10.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AssignTasks.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AssignTasks.cs",
+              "RelativeDocumentMoniker": "AssignTasks.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AssignTasks.cs",
+              "RelativeToolTip": "AssignTasks.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAADwvzIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:25:21.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AdminSignup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AdminSignup.Designer.cs",
+              "RelativeDocumentMoniker": "AdminSignup.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AdminSignup.Designer.cs",
+              "RelativeToolTip": "AdminSignup.Designer.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAgwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:41:04.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AdminSignup.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AdminSignup.cs",
+              "RelativeDocumentMoniker": "AdminSignup.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AdminSignup.cs",
+              "RelativeToolTip": "AdminSignup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:16:19.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Viewfeedback.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Viewfeedback.Designer.cs",
+              "RelativeDocumentMoniker": "Viewfeedback.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Viewfeedback.Designer.cs",
+              "RelativeToolTip": "Viewfeedback.Designer.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:51:06.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ViewSalary.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ViewSalary.cs",
+              "RelativeDocumentMoniker": "ViewSalary.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ViewSalary.cs",
+              "RelativeToolTip": "ViewSalary.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:20:50.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CustomerSupport.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CustomerSupport.Designer.cs",
+              "RelativeDocumentMoniker": "CustomerSupport.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CustomerSupport.Designer.cs",
+              "RelativeToolTip": "CustomerSupport.Designer.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAiwFgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:44:32.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "AdminLogin.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AdminLogin.cs",
+              "RelativeToolTip": "AdminLogin.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:16:07.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Employeesignupcs.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Employeesignupcs.Designer.cs",
+              "RelativeDocumentMoniker": "Employeesignupcs.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Employeesignupcs.Designer.cs",
+              "RelativeToolTip": "Employeesignupcs.Designer.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAswMsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:27:49.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CheckProfileAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CheckProfileAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "CheckProfileAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CheckProfileAdmin.Designer.cs",
+              "RelativeToolTip": "CheckProfileAdmin.Designer.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAswI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:07:37.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ManageAppS.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ManageAppS.Designer.cs",
+              "RelativeDocumentMoniker": "ManageAppS.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ManageAppS.Designer.cs",
+              "RelativeToolTip": "ManageAppS.Designer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:54:33.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ManageAppS.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ManageAppS.cs",
+              "RelativeDocumentMoniker": "ManageAppS.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ManageAppS.cs",
+              "RelativeToolTip": "ManageAppS.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:46:20.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CahsierCheckprofile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CahsierCheckprofile.Designer.cs",
+              "RelativeDocumentMoniker": "CahsierCheckprofile.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CahsierCheckprofile.Designer.cs",
+              "RelativeToolTip": "CahsierCheckprofile.Designer.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAWwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:33:40.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CahsierCheckprofile.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CahsierCheckprofile.cs",
+              "RelativeDocumentMoniker": "CahsierCheckprofile.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\CahsierCheckprofile.cs",
+              "RelativeToolTip": "CahsierCheckprofile.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:27:21.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TrackAppointmentStatus.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\TrackAppointmentStatus.Designer.cs",
+              "RelativeDocumentMoniker": "TrackAppointmentStatus.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\TrackAppointmentStatus.Designer.cs",
+              "RelativeToolTip": "TrackAppointmentStatus.Designer.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAWwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:11:34.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TrackAppointmentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\TrackAppointmentStatus.cs",
+              "RelativeDocumentMoniker": "TrackAppointmentStatus.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\TrackAppointmentStatus.cs",
+              "RelativeToolTip": "TrackAppointmentStatus.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:07:39.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Removemp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Removemp.Designer.cs",
+              "RelativeDocumentMoniker": "Removemp.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Removemp.Designer.cs",
+              "RelativeToolTip": "Removemp.Designer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:41:04.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Removemp.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Removemp.cs",
+              "RelativeDocumentMoniker": "Removemp.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Removemp.cs",
+              "RelativeToolTip": "Removemp.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:36:07.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empdashboard.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Empdashboard.cs",
+              "RelativeDocumentMoniker": "Empdashboard.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Empdashboard.cs",
+              "RelativeToolTip": "Empdashboard.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:31:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MedicalStaffdashboard.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\MedicalStaffdashboard.cs",
+              "RelativeDocumentMoniker": "MedicalStaffdashboard.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\MedicalStaffdashboard.cs",
+              "RelativeToolTip": "MedicalStaffdashboard.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:28:01.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeparateDashboards.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\SeparateDashboards.cs",
+              "RelativeDocumentMoniker": "SeparateDashboards.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\SeparateDashboards.cs",
+              "RelativeToolTip": "SeparateDashboards.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:24:31.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Viewfeedback.resx",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Viewfeedback.resx",
+              "RelativeDocumentMoniker": "Viewfeedback.resx",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Viewfeedback.resx",
+              "RelativeToolTip": "Viewfeedback.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-16T18:16:04.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ViewSalary.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ViewSalary.Designer.cs",
+              "RelativeDocumentMoniker": "ViewSalary.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\ViewSalary.Designer.cs",
+              "RelativeToolTip": "ViewSalary.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:31:53.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AssignTasks.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AssignTasks.Designer.cs",
+              "RelativeDocumentMoniker": "AssignTasks.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\AssignTasks.Designer.cs",
+              "RelativeToolTip": "AssignTasks.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:55:51.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\packages\\Oracle.ManagedDataAccess.21.14.0\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\Oracle.ManagedDataAccess.21.14.0\\readme.txt",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\packages\\Oracle.ManagedDataAccess.21.14.0\\readme.txt",
+              "RelativeToolTip": "packages\\Oracle.ManagedDataAccess.21.14.0\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-29T18:39:30.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\packages\\Oracle.ManagedDataAccess.EntityFramework.21.9.0\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\Oracle.ManagedDataAccess.EntityFramework.21.9.0\\readme.txt",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\packages\\Oracle.ManagedDataAccess.EntityFramework.21.9.0\\readme.txt",
+              "RelativeToolTip": "packages\\Oracle.ManagedDataAccess.EntityFramework.21.9.0\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-29T18:38:15.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:51:31.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "addemp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\addemp.Designer.cs",
+              "RelativeDocumentMoniker": "addemp.Designer.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\addemp.Designer.cs",
+              "RelativeToolTip": "addemp.Designer.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAgwMYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:08:54.355Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "c64c0ce1-ad46-4c5c-8420-151428e67402",
+        "Display": 0,
+        "X": 50,
+        "Y": 150,
+        "Width": 800,
+        "Height": 600,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empdashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Empdashboard.cs",
+              "RelativeDocumentMoniker": "Empdashboard.cs",
+              "ToolTip": "C:\\Users\\UsEr\\OneDrive\\Desktop\\22F-3272_22F-3859_DB_Phase2\\22F-3272_22F-3859_DB_Phase2\\WindowsFormsApp1\\Empdashboard.cs [Design]",
+              "RelativeToolTip": "Empdashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:20:04.895Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

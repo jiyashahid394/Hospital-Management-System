@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C4D335E8-08C7-4407-B233-50FFDE061E91}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>packages\Oracle.ManagedDataAccess.21.14.0\lib\net462\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess.EntityFramework, Version=6.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>packages\Oracle.ManagedDataAccess.EntityFramework.21.9.0\lib\net462\Oracle.ManagedDataAccess.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Formats.Asn1, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Formats.Asn1.8.0.0\lib\net462\System.Formats.Asn1.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=6.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Json.6.0.1\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addemp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addemp.Designer.cs">
+      <DependentUpon>addemp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLogin.Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminSignup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSignup.Designer.cs">
+      <DependentUpon>AdminSignup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignTasks.Designer.cs">
+      <DependentUpon>AssignTasks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookAppointment.Designer.cs">
+      <DependentUpon>BookAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CahsierCheckprofile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CahsierCheckprofile.Designer.cs">
+      <DependentUpon>CahsierCheckprofile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="checkprofile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="checkprofile.Designer.cs">
+      <DependentUpon>checkprofile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckProfileAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckProfileAdmin.Designer.cs">
+      <DependentUpon>CheckProfileAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckprofileEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckprofileEmp.Designer.cs">
+      <DependentUpon>CheckprofileEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustDashboard.Designer.cs">
+      <DependentUpon>CustDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerSupport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerSupport.Designer.cs">
+      <DependentUpon>CustomerSupport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empdashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empdashboard.Designer.cs">
+      <DependentUpon>Empdashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee.Designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeDashboard.Designer.cs">
+      <DependentUpon>EmployeeDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employeesignupcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employeesignupcs.Designer.cs">
+      <DependentUpon>Employeesignupcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageAppointmentSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageAppointmentSchedule.Designer.cs">
+      <DependentUpon>ManageAppointmentSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageAppS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageAppS.Designer.cs">
+      <DependentUpon>ManageAppS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageEmp.Designer.cs">
+      <DependentUpon>ManageEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Managetask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Managetask.Designer.cs">
+      <DependentUpon>Managetask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MedicalStaffdashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MedicalStaffdashboard.Designer.cs">
+      <DependentUpon>MedicalStaffdashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patientdashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patientdashboard.Designer.cs">
+      <DependentUpon>Patientdashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patientlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patientlogin.Designer.cs">
+      <DependentUpon>Patientlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PatientSignup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PatientSignup.Designer.cs">
+      <DependentUpon>PatientSignup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prescription.Designer.cs">
+      <DependentUpon>Prescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PreviousAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PreviousAppointment.Designer.cs">
+      <DependentUpon>PreviousAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Removeemp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Removeemp.Designer.cs">
+      <DependentUpon>Removeemp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Removemp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Removemp.Designer.cs">
+      <DependentUpon>Removemp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeparateDashboards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeparateDashboards.Designer.cs">
+      <DependentUpon>SeparateDashboards.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrackAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrackAppointment.Designer.cs">
+      <DependentUpon>TrackAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrackAppointmentStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrackAppointmentStatus.Designer.cs">
+      <DependentUpon>TrackAppointmentStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updaterecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updaterecord.Designer.cs">
+      <DependentUpon>updaterecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewappointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewappointment.Designer.cs">
+      <DependentUpon>viewappointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Viewfeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Viewfeedback.Designer.cs">
+      <DependentUpon>Viewfeedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewSalary.Designer.cs">
+      <DependentUpon>ViewSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Viewtask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Viewtask.Designer.cs">
+      <DependentUpon>Viewtask.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addemp.resx">
+      <DependentUpon>addemp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminSignup.resx">
+      <DependentUpon>AdminSignup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignTasks.resx">
+      <DependentUpon>AssignTasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookAppointment.resx">
+      <DependentUpon>BookAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CahsierCheckprofile.resx">
+      <DependentUpon>CahsierCheckprofile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="checkprofile.resx">
+      <DependentUpon>checkprofile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckProfileAdmin.resx">
+      <DependentUpon>CheckProfileAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustDashboard.resx">
+      <DependentUpon>CustDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerSupport.resx">
+      <DependentUpon>CustomerSupport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empdashboard.resx">
+      <DependentUpon>Empdashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeDashboard.resx">
+      <DependentUpon>EmployeeDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employeesignupcs.resx">
+      <DependentUpon>Employeesignupcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageAppS.resx">
+      <DependentUpon>ManageAppS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageEmp.resx">
+      <DependentUpon>ManageEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Managetask.resx">
+      <DependentUpon>Managetask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MedicalStaffdashboard.resx">
+      <DependentUpon>MedicalStaffdashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patientdashboard.resx">
+      <DependentUpon>Patientdashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patientlogin.resx">
+      <DependentUpon>Patientlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatientSignup.resx">
+      <DependentUpon>PatientSignup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prescription.resx">
+      <DependentUpon>Prescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreviousAppointment.resx">
+      <DependentUpon>PreviousAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Removeemp.resx">
+      <DependentUpon>Removeemp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Removemp.resx">
+      <DependentUpon>Removemp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeparateDashboards.resx">
+      <DependentUpon>SeparateDashboards.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrackAppointment.resx">
+      <DependentUpon>TrackAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrackAppointmentStatus.resx">
+      <DependentUpon>TrackAppointmentStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updaterecord.resx">
+      <DependentUpon>updaterecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewappointment.resx">
+      <DependentUpon>viewappointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Viewfeedback.resx">
+      <DependentUpon>Viewfeedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewSalary.resx">
+      <DependentUpon>ViewSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Oracle.ManagedDataAccess.Client.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-04-29 at 11.07.51 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_4142 %281%29.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Admin %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin %283%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee signup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin %282%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin %284%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Neutral Beige Minimalist Online Courses Dashboard Desktop Prototype %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beige Minimal Color UI Search Page Job Portal Website Desktop Prototype.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beige Minimal Color UI Search Page Job Portal Website Desktop Prototype %281%29 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Db %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book appointment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\previous appointment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\track appointment .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Customer Support.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Customer Support1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feedback  %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Task  %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update medical record %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prescription %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Employees dashboard .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_feedback.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Task.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Generate_prescription.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mange_emp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1724930.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\131.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHECKPROFILE-find-patient.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADD-APP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mange_emp1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update_medical_record.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view-salary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manage-task.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Employees dashboard  %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-05-12 at 8.31.36 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-05-12 at 8.31.38 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-05-12 at 8.31.37 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove-emp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADD-EMP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\track appointment 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\previous appointment %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHECKPROFILE-emp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mange_App_sch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHECKPROFILE-admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mark-as-completes-Task.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patient dashboard .png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="packages\System.Text.Json.6.0.1\build\System.Text.Json.targets" Condition="Exists('packages\System.Text.Json.6.0.1\build\System.Text.Json.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\System.Text.Json.6.0.1\build\System.Text.Json.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\System.Text.Json.6.0.1\build\System.Text.Json.targets'))" />
+  </Target>
+</Project>
