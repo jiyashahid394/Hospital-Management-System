@@ -30,5 +30,5 @@ Profile Management: Update personal information for patients, staff, and admins.
 Revenue and Employee Management: Calculate revenue, manage employee tasks, roles, and salaries.
 
 Medical Record and Prescription Management: Access medical records and generate electronic prescriptions.
-![1](https://github.com/user-attachments/assets/2cafe8f7-1f8b-4781-abfe-a376019db92b)
+
 
